@@ -47,6 +47,8 @@ For some real world examples check out these sites.
 -    [philipbjorge.com](http://www.philipbjorge.com)
      ([source](https://github.com/philipbjorge/philipbjorge.com)) - Personal
      website of Philip Bjorge
+-    [dmbaughman.com](http://dmbaughman.com) - Personal website of 
+     David Baughman
 -    Your site here! If you are using wok to generate sites, and don't mind
      serving as an example, let me know and I will add a link to your site
      here.
